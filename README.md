@@ -10,6 +10,7 @@ Share Showtimes on Facebook/Twitter/SMS/etc.
 Local Storage / Offline Mode
 * If Showtimes/Theaters does NOT work on google than Showtimes/Theaters on the app will NOT work.
 
+<img src='https://github.com/ikkysleepy/POPFlix/blob/master/screens/2012-10-31_23-28-09.png'>
 
 To-Do Timeline 12/19/2012
 Fix YouTube Forbidden Issue
