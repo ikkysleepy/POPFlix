@@ -1,0 +1,70 @@
+popflix (0.0.11) unstable; urgency=low
+  * Added Clear Cache Button
+  * Added Privacy Statement
+  * Added Trailer Workaround + Settings Option
+  * Caching YouTube Errors
+
+ -- Jorge Corona <jorge@dengineer.com>  Sat, 08 Dec 2012 20:25:47 -0800
+
+popflix (0.0.10) unstable; urgency=low
+  * Added Support for HQ (360p & 480p) Video Quality
+  * Moved Error QML back to pages to be consistent with symbian version
+
+ -- Jorge Corona <jorge@dengineer.com>  Fri, 23 Nov 2012 17:01:12 -0800
+
+popflix (0.0.9) unstable; urgency=low
+  * Fixed Error Msg on Theaters / Theater
+  * Added  elide to location
+  * Fixed Spacing for 3+ line showtimes
+  * Fixed Actors on movie details page
+  * Made Read More button bigger on movie details page
+  * No more double refresh on pull 2 refresh
+  * Updated Pull 2 Refresh to be smoother
+
+ -- Jorge Corona <jorge@dengineer.com>  Wed, 14 Nov 2012 22:17:00 -0800
+
+popflix (0.0.8) unstable; urgency=low
+  * Added Error Msg to Theaters / Theater
+
+ -- Jorge Corona <jorge@dengineer.com>  Tue, 13 Nov 2012 07:35:44 -0800
+
+popflix (0.0.7) unstable; urgency=low
+  * Fix for Spacing on Theater (address / showtimes)
+  * Fix for Spacing on Theaters address
+  * Fix for Showtimes Spacing
+  * Made sort / change buttons a bit bigger
+
+ -- Jorge Corona <jorge@dengineer.com>  Sat, 10 Nov 2012 12:26:55 -0800
+
+popflix (0.0.6) unstable; urgency=low
+  * Removed Ads Component
+  * Fixed Trailer Naming
+
+ -- Jorge Corona <jorge@dengineer.com>  Sun, 04 Nov 2012 10:13:17 -0800
+
+popflix (0.0.5) unstable; urgency=low
+  * Fixed Bug with fast clicking
+
+ -- Jorge Corona <jorge@dengineer.com>  Sat, 03 Nov 2012 13:55:09 -0700
+
+popflix (0.0.4) unstable; urgency=low
+  * Fixed Offline Errors
+
+ -- Jorge Corona <jorge@dengineer.com>  Fri, 02 Nov 2012 20:32:56 -0700
+
+popflix (0.0.3) unstable; urgency=low
+  * Fixed Error Bugs
+
+ -- Jorge Corona <jorge@dengineer.com>  Wed, 31 Oct 2012 22:38:40 -0700
+
+popflix (0.0.2) unstable; urgency=low
+  * Added Offline Support
+  * Reviews Offline
+
+ -- Jorge Corona <jorge@dengineer.com> Mon, 08 Oct 2012 22:59:37 -0700
+
+popflix (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Jorge Corona <jorge@dengineer.com>  Thu, 04 Oct 2012 08:37:56 -0700
