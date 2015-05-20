@@ -1,4 +1,4 @@
-# POPFlix
+# POPFlix for Nokia N9
 Browse the top box office movies and movies opening soon Look up showtimes at your local theater * Get critic reviews from Rotten Tomatoes Watch movie trailers (mobile +HQ) Share Showtimes on Facebook/Twitter/SMS/etc. Local Storage / Offline Mode
 
 Premium Features:
